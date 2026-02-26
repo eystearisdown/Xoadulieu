@@ -55,3 +55,4 @@
 9|https://www.google.com/url?q=https://https://www.zinieces.com.mx/
 81|https://www.google.com/url?q=https://facebook.africa.com
 70|https://www.google.com/url?q=https://frg.eu.com
+72|https://www.google.com/url?q=https://https://entraide.jp.net/
